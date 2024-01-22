@@ -1,6 +1,5 @@
-dist
-build
-node_modules
+build/
+node_modules/
 .vscode
 .DS_Store
 *.tmp
